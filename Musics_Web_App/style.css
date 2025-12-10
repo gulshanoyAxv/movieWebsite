@@ -1,0 +1,16 @@
+body {
+  background-color: yellow;
+}
+
+h1{
+    margin-bottom: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  margin-right: 12px;
+  padding: 12px;
+  border-radius: 8px;
+}
